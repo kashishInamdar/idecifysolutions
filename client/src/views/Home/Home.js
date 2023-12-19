@@ -1,10 +1,10 @@
 import "./Home.css"
 
-const Home = ()=>{
-    return(
-       <div className="">
+const Home = () => {
+    return (
+        <div className="">
 
-       </div>
+        </div>
     )
 }
 export default Home
